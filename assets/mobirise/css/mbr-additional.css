@@ -1256,15 +1256,6 @@ body {
   height: auto;
   min-height: 100vh;
 }
-.cid-qxA73JyLAh {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-qxA73JyLAh .mbr-text,
-.cid-qxA73JyLAh blockquote {
-  color: #767676;
-}
 .cid-qxzwsEjE3t {
   background-color: #dfdcd9;
 }
@@ -2588,4 +2579,13 @@ body {
 }
 .cid-qx6JnyUp2Z H3 {
   color: #232323;
+}
+.cid-qxA73JyLAh {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qxA73JyLAh .mbr-text,
+.cid-qxA73JyLAh blockquote {
+  color: #767676;
 }
